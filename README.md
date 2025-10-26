@@ -19,5 +19,5 @@ This repository trains a stacked LSTM to forecast stock prices using:
 3. Train
    ```bash
    bash run_example.sh AAPL
-4. Evaluate
+4. Evaluate:
    Load outputs/AAPL/final_model.h5 in a notebook and run src.evaluate.evaluate_model.
