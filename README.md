@@ -8,5 +8,5 @@ This repository trains a stacked LSTM to forecast stock prices using:
 ## Quickstart (local)
 1. Clone:
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/Ridhi1905/Stock_Market_Forecast>
    cd stock-forecast-lstm
