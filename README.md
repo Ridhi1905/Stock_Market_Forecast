@@ -1,5 +1,6 @@
-# Stock Forecast LSTM:
 
+# Stock Forecast LSTM:
+# "A Comprehensive Approach to Financial Market Forecasting: Integrating Fundamental and Derivative Analysis and Prediction" 
 This repository trains a stacked LSTM to forecast stock prices using:
 - Technical indicators (SMA, EMA, RSI, ATR, ADX, MACD, Bollinger Bands)
 - Fundamental metrics from Yahoo Finance
@@ -20,4 +21,5 @@ This repository trains a stacked LSTM to forecast stock prices using:
    ```bash
    bash run_example.sh AAPL
 4. Evaluate:
+   ```
    Load outputs/AAPL/final_model.h5 in a notebook and run src.evaluate.evaluate_model.
