@@ -1,4 +1,4 @@
-# Stock Forecast LSTM (implements methodology from the user's research paper) :contentReference[oaicite:1]{index=1}
+# Stock Forecast LSTM:
 
 This repository trains a stacked LSTM to forecast stock prices using:
 - Technical indicators (SMA, EMA, RSI, ATR, ADX, MACD, Bollinger Bands)
